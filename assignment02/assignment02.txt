@@ -1,0 +1,5 @@
+- Create a Shell_Reverse_TCP shellcode  
+	- Reverse connects to configured IP and Port  
+	- Needs a “Passcode”   
+	- If Passcode is correct then Execs Shell  
+- Remove 0x00 from the Reverse TCP Shellcode  discussed  

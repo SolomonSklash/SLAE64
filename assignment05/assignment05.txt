@@ -1,0 +1,3 @@
+- Take up at least 3 shellcode samples created using Msfpayload for linux/x86_64  
+- Use GDB to dissect the functionality of the shellcode 
+- Document your analysis 
